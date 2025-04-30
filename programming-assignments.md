@@ -4,7 +4,7 @@
 - **Info about the project:** This project compares the performance of native Python code versus using the NumPy external library for array multiplications. By testing 1D and 2D arrays of different sizes, it highlights the efficiency gains provided by specialized libraries like NumPy, especially when working with large datasets.
 - **Score:** 79.17/100 (79.17%)
 - **Report:** [View Report PDF](./project_reports/Is_Python_Fast_or_Slow.pdf)
-- **Code:** [View Code](./pa1_code/Group_C_programming_assignment1.ipynb)
+- **Code:** [View Code](./pa1-python-fast-or-slow/Group_C_programming_assignment1.ipynb)
 
 ## PA 2: Agents
 - **Info about the project:** This project evaluates the performance of a vacuum agent in different environments, comparing agents that either keep track of their previous states or operate without memory. Through multiple tests measuring steps taken, dirt cleaned, and efficiency, the study explores how memory impacts the agent’s ability to clean environments with and without obstacles.
