@@ -46,4 +46,4 @@
 - Each assignment showed how AI techniques can solve real-world problems with different levels of complexity, uncertainty, and structure.
 
 ## More Information
-- [Go to Programming Assignments File](./programming-assignments/)
+- [Go to Programming Assignments File](./programming-assignments.md/)
