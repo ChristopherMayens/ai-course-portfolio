@@ -1,6 +1,14 @@
-# 🧠 AI Course Portfolio
+# 🧠 Artificial Intelligence Portfolio
 
-Welcome to my portfolio for the AI course (Spring 2025). This repository documents my progress, reflections, and projects throughout the course.
+**Christopher H. Mayens Matías**  
+Department of Electrical and Computer Engineering  
+University of Puerto Rico  
+
+**Course:** ICOM5015 – Artificial Intelligence 
+**Professor:** Dr. José Fernando Vega Riveros  
+
+Welcome to my portfolio for the Artificial Intelligence course. This repository documents my progress, reflections, and projects completed throughout the semester.
+
 
 ## 📚 Sections
 
@@ -11,11 +19,5 @@ Welcome to my portfolio for the AI course (Spring 2025). This repository documen
 - [📝 Essays & Forums](./essays-forums/)
 - [🤝 Teamwork & Collaboration](./teamwork/)
 - [🧭 Self-Assessment](./self-assessment/)
-- [📖 AI Literature Review](./ai-literature-review/)
-- [🧠 Applications & Demos](./applications-demos/)
-
-## 📅 Submission Info
-
-- **Due:** May 1, 2025 @ 23:59
-- **Instructor:** [Instructor Name]
-- **Status:** 🚧 In Progress
+- [📚 AI Literature Review](./ai-literature-review/)
+- [🎥 Applications & Demos](./applications-demos/)
