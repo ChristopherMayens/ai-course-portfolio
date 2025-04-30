@@ -12,12 +12,12 @@ Welcome to my portfolio for the Artificial Intelligence course. This repository 
 
 ## 📚 Sections
 
-- [📖 Course Overview](./course-overview/)
-- [🧪 Exams](./exams/)
-- [💻 Programming Assignments](./programming-assignments/)
-- [❓ Quizzes](./quizzes/)
-- [📝 Essays & Forums](./essays-forums/)
-- [🤝 Teamwork & Collaboration](./teamwork/)
-- [🧭 Self-Assessment](./self-assessment/)
-- [📚 AI Literature Review](./ai-literature-review/)
-- [🎥 Applications & Demos](./applications-demos/)
+- [📖 Course Overview](./course-overview.md/)
+- [🧪 Exams](./exams.md/)
+- [💻 Programming Assignments](./programming-assignments.md/)
+- [❓ Quizzes](./quizzes.md/)
+- [📝 Essays & Forums](./essays-forums.md/)
+- [🤝 Teamwork & Collaboration](./teamwork.md/)
+- [🧭 Self-Assessment](./self-assessment.md/)
+- [📚 AI Literature Review](./ai-literature-review.md/)
+- [🎥 Applications & Demos](./applications-demos.md/)
