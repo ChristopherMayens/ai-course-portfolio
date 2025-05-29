@@ -22,16 +22,23 @@
 
 ## PA 4: Hill Climbing Applications and Simulated Annealing
 - **Info about the project:** This project evaluates the performance of various hill climbing algorithms by solving randomly generated instances of the 8 Puzzle and 8 Queens problems. It tests Steepest-Ascent Hill Climbing, First-Choice Hill Climbing, Random Restart Hill Climbing, and Simulated Annealing. By tracking metrics such as success rate, search cost, and efficiency, it analyzes how different local search strategies perform depending on the structure and complexity of the problem space, and how problem characteristics influence algorithm effectiveness.
-- **Score:** NOT GRADED YET
+- **Score:** 92.86/100 (92.86%)
 - **Report:** [View Report PDF](./project_reports/Hill_Climbing_Applications_and_Simulated_Annealing.pdf)
 - **GitHub Repository and Instructions:** [Hill-Climbing-Applications-and-Simulated-Annealing](https://github.com/Dahyna-Martinez/Agents-and-Task-Management)  
   _(See the README.md for project-specific instructions.)_
 
 ## PA 5: Adversarial Search
 - **Info about the project:** This project develops a digital Puerto Rican Dominoes game featuring human and AI players competing against each other. The AI uses Monte Carlo Simulation to evaluate possible moves by running random simulations and selecting the play with the highest estimated success rate. Multiple game modes are supported, including team-based and free-for-all setups, and the project explores how adversarial search strategies can be applied to complex, stochastic, and partially observable environments like Dominoes.
-- **Score:** NOT GRADED YET
+- **Score:** 100/100 (100%)
 - **Report:** [View Report PDF](./project_reports/Adversarial_Search.pdf)
 - **GitHub Repository and Instructions:** [DominosAI](https://github.com/JanPerez35/DominosAI.git)  
+  _(See the README.md for project-specific instructions.)_
+
+## PA 6: Constraint satisfaction problems (CSP)
+- **Info about the project:** This project implements and compares four constraint satisfaction algorithms including Backtracking, Min Conflicts, AC3 with Backtracking, and Forward Checking by applying them to the Zebra Puzzle. It investigates how each algorithm processes variables, domains, and constraints to construct valid solutions. By modeling the puzzle as a structured constraint satisfaction problem, the project analyzes how inference techniques and search strategies influence performance in solving tightly constrained logic problems.
+- **Score:** 100/100 (100%)
+- **Report:** [View Report PDF](./project_reports/CSP_Reports.pdf)
+- **GitHub Repository and Instructions:** [CSP Algorithms](https://github.com/Dahyna-Martinez/Agents-and-Task-Management) 
   _(See the README.md for project-specific instructions.)_
 
   ---
