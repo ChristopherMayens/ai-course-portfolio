@@ -49,6 +49,8 @@
 
 - PA 5 applied adversarial search to a Dominoes game using Monte Carlo Simulation. Developing AI players in an uncertain and competitive setting helped me understand how AI can be used in games and other environments requiring prediction and strategic planning.
 
+- In PA 6, I explored constraint satisfaction algorithms by solving the Zebra/Einstein puzzle using methods like standard backtracking, forward checking, AC-3 with backtracking, and min-conflicts. This assignment showed me how different strategies handle structured, tightly constrained problems, and emphasized the importance of inference and constraint propagation in reducing search effort and improving efficiency.
+
 - Each assignment showed how AI techniques can solve real-world problems with different levels of complexity, uncertainty, and structure.
 
 ## More Information

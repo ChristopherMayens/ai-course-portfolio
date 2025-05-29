@@ -6,6 +6,7 @@ University of Puerto Rico
 
 **Course:** ICOM5015 – Artificial Intelligence 
 **Professor:** Dr. José Fernando Vega Riveros  
+**Final Grade:** A
 
 Welcome to my portfolio for the Artificial Intelligence course. This repository documents my progress, reflections, and projects completed throughout the semester.
 

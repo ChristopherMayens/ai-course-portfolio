@@ -13,5 +13,7 @@
 ## Performance Summary and Reflections
 - In the first partial exam I didn’t get the grade I was hoping for. The most challenging part was the exercises, and it felt like there wasn’t enough time to complete both. I got stuck on one of them and struggled with time to finish the one I understood better. For the multiple-choice and short answer questions, I feel like I did okay. Not great, but not bad either.
 
-- The area I need to improve most is solving the 8-queens problem, which took up most of my time and I couldn’t complete. I also need to strengthen my understanding of different search strategies so I can solve a wider range of problems more efficiently. For the final exam I plan to be better prepared and expect a much better outcome.
+- The area I need to improve most is solving the 8-queens problem, which took up most of my time and I couldn’t complete. I also need to strengthen my understanding of different search strategies so I can solve a wider range of problems more efficiently.
+
+- I did well on the final exam and got a perfect score on the group assignment about the ethical impact of AI on society. On the exam itself, I only got two answers wrong and one partially incorrect. Overall, I earned a strong grade to finish the semester.
 
