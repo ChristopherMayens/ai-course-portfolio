@@ -24,17 +24,17 @@
 ## Forum 3 – What is Intelligence?
 - **Score:** 100/100 (100%)
 - **Picture:**  
-  ![Forum 3 Image](./images/forum3_pic.png)
+  ![Forum 3 Image](./images/forum3_pic.PNG)
 
 ## Forum 4 – PEAS for Agents
 - **Score:** 100/100 (100%)
 - **Picture:**  
-  ![Forum 4 Image](./images/forum4_pic.png)
+  ![Forum 4 Image](./images/forum4_pic.PNG)
 
 ## Forum 5 – PEAS of Spot: Boston Dynamics’ Multipurpose Robot
 - **Score:** 100/100 (100%)
 - **Picture:**  
-  ![Forum 5 Image](./images/forum5_pic.png)
+  ![Forum 5 Image](./images/forum5_pic.PNG)
 
 ---
 

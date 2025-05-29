@@ -4,7 +4,7 @@
 - **Info about the project:** This project compares the performance of native Python code versus using the NumPy external library for array multiplications. By testing 1D and 2D arrays of different sizes, it highlights the efficiency gains provided by specialized libraries like NumPy, especially when working with large datasets.
 - **Score:** 79.17/100 (79.17%)
 - **Report:** [View Report PDF](./project_reports/Is_Python_Fast_or_Slow.pdf)
-- **Code:** [View Code](./pa1_code/Group_C_programming_assignment1.ipynb)
+- **Code:** [View Code](./pa1-python-fast-or-slow/Group_C_programming_assignment1.ipynb)
 
 ## PA 2: Agents
 - **Info about the project:** This project evaluates the performance of a vacuum agent in different environments, comparing agents that either keep track of their previous states or operate without memory. Through multiple tests measuring steps taken, dirt cleaned, and efficiency, the study explores how memory impacts the agent’s ability to clean environments with and without obstacles.
@@ -47,5 +47,5 @@
 - The programming assignments were fun, but some were also challenging. One of the biggest difficulties was understanding what each problem was really asking and figuring out how to translate that into code. The assignment I struggled with the most was PA 4, especially implementing the Simulated Annealing algorithm for the 8 Puzzle and 8 Queens problems. On the other hand, I really enjoyed PA 3. It was rewarding to keep improving the pathfinding grid and observe how each algorithm reached the goal. Overall, these assignments gave me valuable hands-on experience applying AI techniques to real-world scenarios like optimization, search, game strategy, and agent design. Each task strengthened my understanding of how different algorithms perform under various conditions, constraints, and uncertainties.
 
 ## Demos
-- [Go to Applications & Demos File](./applications-demos/) (Includes a more in-depth analysis of the programming assignments)  
+- [Go to Applications & Demos File](./applications-demos.md/) (Includes a more in-depth analysis of the programming assignments)  
 - The feedback on the demos was very positive. For the demos that were graded, we received a perfect score. The only critique was that in one of the presentations, our speaking pace was a bit too fast.
