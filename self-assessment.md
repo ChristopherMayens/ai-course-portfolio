@@ -4,4 +4,4 @@
 
 - In terms of strengths, I feel confident in the coding aspect and in applying AI techniques. My main area for growth is deepening my theoretical understanding, especially when it comes to the different search algorithms. Moving forward, I plan to continue learning about AI and strengthening my problem-solving skills.
 
--Overall, I’m satisfied with my performance in the course. I finished the semester with a **final grade of A**, which reflects my consistent effort across assignments, quizzes, essays, and team projects.
+- Overall, I’m satisfied with my performance in the course. I finished the semester with a **final grade of A**, which reflects my consistent effort across assignments, quizzes, essays, and team projects.
